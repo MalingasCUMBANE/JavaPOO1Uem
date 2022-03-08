@@ -1,0 +1,23 @@
+PARADIGMA DA PROGRAMAÇÃO -> 
+    É a forma como nós estruturamos o nosso código de programação.
+
+
+-------------------------------------------------------------
+Divide-se em 2, Estruturados e Orientado a objectos.-
+--------------------------------------------------------------
+
+
+A orientação a Objectos está dividida em 4 partes
+1 - Polimorfismo
+    capacidade de usar elementos de uma classe.
+
+2 - Encapsulamento 
+
+    É a capacidade de tornar os objectos invisíveis ou torná-los disponíveis em cada parte do projecto.
+3 - Herança
+
+    É a relação entre as classes, herdar atributos da classe mãe.
+
+
+4 - Abstração   
+    É a junção de Polimorfismo e Herança.
