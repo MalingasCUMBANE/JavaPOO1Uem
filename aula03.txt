@@ -1,0 +1,2 @@
+Elabore uma classe Aluno, para repressentae as informações de um Alun. Um Aluno, contém nome, idade, sexo e média global.
+Escreva uma classe de teste "TesteEstudante", que crie dois objectos de Aluno e imprima os dados.

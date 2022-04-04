@@ -20,4 +20,5 @@ A orientação a Objectos está dividida em 4 partes
 
 
 4 - Abstração   
+
     É a junção de Polimorfismo e Herança.
